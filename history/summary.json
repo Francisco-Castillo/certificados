@@ -4,19 +4,19 @@
     "url": "http://certificadosfhu.unse.edu.ar:8080/extension/",
     "icon": "https://favicons.githubusercontent.com/certificadosfhu.unse.edu.ar",
     "slug": "certificados-humanidades",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 831,
-    "timeDay": 689,
-    "timeWeek": 799,
-    "timeMonth": 831,
-    "timeYear": 831,
+    "status": "up",
+    "uptime": "98.46%",
+    "uptimeDay": "81.97%",
+    "uptimeWeek": "97.42%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.46%",
+    "time": 823,
+    "timeDay": 700,
+    "timeWeek": 788,
+    "timeMonth": 823,
+    "timeYear": 823,
     "dailyMinutesDown": {
-      "2022-02-15": 0
+      "2022-02-15": 260
     }
   }
 ]
