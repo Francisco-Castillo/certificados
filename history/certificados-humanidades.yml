@@ -1,7 +1,7 @@
 url: https://certificadosfhu.unse.edu.ar
-status: up
-code: 200
-responseTime: 915
-lastUpdated: 2022-05-23T23:07:53.177Z
+status: down
+code: 503
+responseTime: 869
+lastUpdated: 2022-05-23T23:54:24.919Z
 startTime: Thu Feb 03 2022 20:16:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
