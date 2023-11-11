@@ -4,8 +4,8 @@
     "url": "https://certificadosfhu.unse.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/certificadosfhu.unse.edu.ar.ico",
     "slug": "certificados-humanidades",
-    "status": "up",
-    "uptime": "82.40%",
+    "status": "down",
+    "uptime": "82.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
@@ -16,6 +16,7 @@
     "timeMonth": 1093,
     "timeYear": 1213,
     "dailyMinutesDown": {
+      "2023-11-11": 0,
       "2023-11-03": 65,
       "2023-09-06": 987,
       "2023-09-05": 1440,
