@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/certificadosfhu.unse.edu.ar.ico",
     "slug": "certificados-humanidades",
     "status": "down",
-    "uptime": "67.11%",
+    "uptime": "67.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.68%",
-    "time": 1132,
+    "uptimeYear": "40.67%",
+    "time": 1131,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1145,
     "dailyMinutesDown": {
-      "2025-04-28": 58,
+      "2025-04-29": 56,
+      "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -243,8 +244,7 @@
       "2024-05-31": 84,
       "2024-05-23": 20,
       "2024-05-10": 90,
-      "2024-05-06": 38,
-      "2024-04-29": 160
+      "2024-05-06": 38
     }
   }
 ]
